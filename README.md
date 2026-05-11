@@ -157,9 +157,9 @@ A clear gap surfaced too: **Diwali revenue is surprisingly low** for such a majo
 **Faizan Raza**
 Data Analytics Enthusiast | Excel • Power BI • SQL • Python
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/faizan-raza-fai20/
-- 🐙 **GitHub:** https://github.com/faizanxraza
-- 📧 **Email:** faizanraza0660@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/faizan-raza-fai20/
+- **GitHub:** https://github.com/faizanxraza
+- **Email:** faizanraza0660@gmail.com
 
 
 *If you found this project helpful or insightful, consider giving it a star on GitHub!*
